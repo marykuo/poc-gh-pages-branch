@@ -1,5 +1,7 @@
 # PoC of GitHub Pages Branch-based
 
+![Deploy Status](https://github.com/marykuo/poc-gh-pages-branch/actions/workflows/pages/pages-build-deployment/badge.svg)
+
 This is a proof of concept repository to demonstrate how GitHub Pages serves files based on the branch and file structure.
 
 ## GitHub Pages Branch-based
